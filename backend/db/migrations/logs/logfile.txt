@@ -1,0 +1,6 @@
+SET
+ drop_all_tables 
+-----------------
+ 
+(1 row)
+

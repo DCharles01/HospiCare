@@ -1,0 +1,5 @@
+packages:
+  - package: dbt_utils
+    version: 0.7.0
+  - package: dbt_snowflake
+    version: 1.0.0

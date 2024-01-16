@@ -1,0 +1,16 @@
+
+version: 2
+
+models:
+  - name: hospital_readmissions_obt
+    description: "Table with hospital admissions data"
+    columns:
+      - name: admission_id
+        description: "admission id"
+        tests:
+          - unique
+          - not_null
+      - name: patient_id
+        description: "patient id"
+        tests:
+          - not_null

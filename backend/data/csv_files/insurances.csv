@@ -1,0 +1,18 @@
+id,insurance_cd,insurance_name
+1,MC,Medicare
+2,MD,Medicaid
+3,HM,Health Maintenance Organization (HMO)
+4,UN,Unknown
+5,BC,Blue Cross Blue Shield
+6,SP,Self Pay
+7,CP,Commercial Payer
+8,SI,Medicare Advantage
+9,DM,Disease Management
+10,CM,Case Management
+11,CH,Children's Health Insurance Program (CHIP)
+12,PO,Point of Service
+13,WC,Workers Compensation
+14,OT,Other
+15,OG,Other Government
+16,MP,Medicare Part D
+17,FR,Federal Employee Program

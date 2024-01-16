@@ -1,0 +1,39 @@
+<!-- frontend/templates/admissions_table.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admissions Table</title>
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.22.2/dist/bootstrap-table.min.css">
+</head>
+<body>
+    <table border="1" data-toggle="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Patient</th>
+                <th>Insurance</th>
+                <th>Admission Type</th>
+                <th>Discharge Disposition</th>
+                <th>Admission Source</th>
+                <th>Time in Hospital</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for admission in admissions %}
+                <tr>
+                    <td>{{ admission.id }}</td>
+                    <td>{{ admission.patient }}</td>
+                    <td>{{ admission.insurance }}</td>
+                    <td>{{ admission.admission_type }}</td>
+                    <td>{{ admission.discharge_disposition }}</td>
+                    <td>{{ admission.admission_source }}</td>
+                    <td>{{ admission.time_in_hospital }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+<script src="https://unpkg.com/bootstrap-table@1.22.2/dist/bootstrap-table.min.js"></script>
+</body>
+</html>

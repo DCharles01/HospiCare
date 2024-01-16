@@ -1,0 +1,917 @@
+diag,diag_description
+514,Pulmonary congestion and hypostasis
+682,Other cellulitis and abscess
+V55,Attention to artificial openings
+V58,Encounter for other and unspecified procedures and aftercare
+174,Malignant neoplasm of female breast
+263,Other and unspecified protein-calorie malnutrition
+427,Cardiac dysrhythmias
+410,Acute myocardial infarction
+721,Spondylosis and allied disorders
+255,Disorders of adrenal glands
+822,Fracture of patella
+403,Hypertensive chronic kidney disease
+250.32,Diabetes with other coma
+566,Abscess of anal and rectal regions
+626,Disorders of menstruation and other abnormal bleeding from female genital tract
+459,Other disorders of circulatory system
+595,Cystitis
+348,Other conditions of brain
+416,Chronic pulmonary heart disease
+592,Calculus of kidney and ureter
+388,Other disorders of ear
+555,Regional enteritis
+335,Anterior horn cell disease
+655,Known or suspected fetal abnormality affecting management of mother
+723,Other disorders of cervical region
+331,Other cerebral degenerations
+293,Transient mental disorders due to conditions classified elsewhere
+729,Other disorders of soft tissues
+585,Chronic kidney disease (CKD)
+604,Orchitis and epididymitis
+444,Arterial embolism and thrombosis
+481,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+826,Fracture of one or more phalanges of foot
+565,Anal fissure and fistula
+825,Fracture of one or more tarsal and metatarsal bones
+135,Sarcoidosis
+576,Other disorders of biliary tract
+663,Umbilical cord complications
+611,Other disorders of breast
+333,Other extrapyramidal disease and abnormal movement disorders
+464,Acute laryngitis and tracheitis
+813,Fracture of radius and ulna
+289,Other diseases of blood and blood-forming organs
+478,Other diseases of upper respiratory tract
+042,Human immunodeficiency virus [HIV] disease
+614,"Inflammatory disease of ovary, fallopian tube, pelvic cellular tissue, and peritoneum"
+253,Disorders of the pituitary gland and its hypothalamic control
+160,"Malignant neoplasm of nasal cavities, middle ear, and accessory sinuses"
+217,Benign neoplasm of breast
+582,Chronic glomerulonephritis
+383,Mastoiditis and related conditions
+873,Other open wound of head
+341,Other demyelinating diseases of central nervous system
+570,Acute and subacute necrosis of liver
+230,Carcinoma in situ of digestive organs
+009,Ill-defined intestinal infections
+810,Fracture of clavicle
+992,Effects of heat and light
+863,Injury to gastrointestinal tract
+551,"Other hernia of abdominal cavity, with gangrene"
+152,"Malignant neoplasm of small intestine, including duodenum"
+048,Other enterovirus diseases of central nervous system
+878,"Open wound of genital organs (external), including traumatic amputation"
+797,Senility without mention of psychosis
+882,Open wound of hand except finger(s) alone
+V56,Encounter for dialysis and dialysis catheter care
+973,Poisoning by agents primarily affecting the gastrointestinal system
+487,Influenza
+796,Other nonspecific abnormal findings
+261,Nutritional marasmus
+V54,Other orthopedic aftercare
+223,Benign neoplasm of kidney and other urinary organs
+324,Intracranial and intraspinal abscess
+143,Malignant neoplasm of gum
+792,Nonspecific abnormal findings in other body substances
+610,Benign mammary dysplasias
+640,Hemorrhage in early pregnancy
+633,Ectopic pregnancy
+445,Atheroembolism
+272,Disorders of lipoid metabolism
+405,Secondary hypertension
+075,Infectious mononucleosis
+734,Flat foot
+521,Diseases of hard tissues of teeth
+980,Toxic effect of alcohol
+696,Psoriasis and similar disorders
+208,Leukemia of unspecified cell type
+245,Thyroiditis
+149,"Malignant neoplasm of other and ill-defined sites within the lip, oral cavity, and pharynx"
+854,Intracranial injury of other and unspecified nature
+952,Spinal cord injury without evidence of spinal bone injury
+683,Acute lymphadenitis
+175,Malignant neoplasm of male breast
+706,Diseases of sebaceous glands
+360,Disorders of the globe
+988,Toxic effect of noxious substances eaten as food
+731,Osteitis deformans and osteopathies associated with other disorders classified elsewhere
+V25,Encounter for contraceptive management
+363,"Chorioretinal inflammations, scars, and other disorders of choroid"
+976,"Poisoning by agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological, and dental drugs"
+098,Gonococcal infections
+271,Disorders of carbohydrate transport and metabolism
+895,Traumatic amputation of toe(s) (complete) (partial)
+V70,General medical examination
+422,Acute myocarditis
+903,Injury to blood vessels of upper extremity
+804,Multiple fractures involving skull or face with other bones
+833,Dislocation of wrist
+690,Erythematosquamous dermatosis
+V51,Aftercare involving the use of plastic surgery
+319,Unspecified mental retardation
+V44,Artificial opening status
+E934,Agents primarily affecting blood constituents
+138,Late effects of acute poliomyelitis
+E817,Noncollision motor vehicle traffic accident while boarding or alighting
+V64,"Persons encountering health services for specific procedures, not carried out"
+909,Late effects of other and unspecified external causes
+520,Disorders of tooth development and eruption
+V08,Asymptomatic human immunodeficiency virus [HIV] infection status
+E929,LATE EFFECTS OF ACCIDENTAL INJURY 
+713,Arthropathy associated with other disorders classified elsewhere
+E884,Other fall from one level to another
+742,Other congenital anomalies of nervous system
+E814,Motor vehicle traffic accident involving collision with pedestrian
+130,Toxoplasmosis
+E919,Accidents caused by machinery
+E916,Struck accidentally by falling object
+316,Psychic factors associated with diseases classified elsewhere
+V02,Carrier or suspected carrier of infectious diseases
+186,Malignant neoplasm of testis
+748,Congenital anomalies of respiratory system
+096,"Late syphilis, latent"
+E819,Motor vehicle traffic accident of unspecified nature
+V50,Elective surgery for purposes other than remedying health states
+E968,Assault by other and unspecified means
+V69,Problems related to lifestyle
+V86,ESTROGEN RECEPTOR STATUS 
+E945,Agents primarily acting on the smooth and skeletal muscles and respiratory system
+270,Disorders of amino-acid transport and metabolism
+460,Acute nasopharyngitis [common cold]
+E883,Fall into hole or other opening in surface
+884,Multiple and unspecified open wound of upper limb
+943,"Burn of upper limb, except wrist and hand"
+265,Thiamine and niacin deficiency states
+365.44,Glaucoma associated with systemic syndromes
+E828,Accident involving animal being ridden
+757,Congenital anomalies of the integument
+E886,"Fall on same level from collision, pushing, or shoving, by or with other person"
+E912,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation
+E864,"Accidental poisoning by corrosives and caustics, not elsewhere classified"
+538,Gastrointestinal mucositis (ulcerative)
+014,"Tuberculosis of intestines, peritoneum, and mesenteric glands"
+917,
+919,
+910,
+518,Other diseases of lung
+473,Chronic sinusitis
+188,Malignant neoplasm of bladder
+515,Postinflammatory pulmonary fibrosis
+V53,Fitting and adjustment of other device
+530,Diseases of esophagus
+536,Disorders of function of stomach
+296,Episodic mood disorders
+446,Polyarteritis nodosa and allied conditions
+455,Hemorrhoids
+786,Symptoms involving respiratory system and other chest symptoms
+486,"Pneumonia, organism unspecified"
+151,Malignant neoplasm of stomach
+511,Pleurisy
+642,"Hypertension complicating pregnancy, childbirth, and the puerperium"
+196,Secondary and unspecified malignant neoplasm of lymph nodes
+112,Candidiasis
+453,Other venous embolism and thrombosis
+288,Diseases of white blood cells
+210,"Benign neoplasm of lip, oral cavity, and pharynx"
+540,Acute appendicitis
+607,Disorders of penis
+305,Nondependent abuse of drugs
+794,Nonspecific abnormal results of function studies
+290,Dementias
+851,Cerebral laceration and contusion
+781,Symptoms involving nervous and musculoskeletal systems
+598,Urethral stricture
+756,Other congenital musculoskeletal anomalies
+041,Bacterial infection in conditions classified elsewhere and of unspecified site
+161,Malignant neoplasm of larynx
+250.1,Diabetes with ketoacidosis
+420,Acute pericarditis
+522,Diseases of pulp and periapical tissues
+567,Peritonitis and retroperitoneal infections
+496,"Chronic airway obstruction, not elsewhere classified"
+250.43,Diabetes with renal manifestations
+850,Concussion
+180,Malignant neoplasm of cervix uteri
+836,Dislocation of knee
+047,Meningitis due to enterovirus
+933,Foreign body in pharynx and larynx
+238,Neoplasm of uncertain behavior of other and unspecified sites and tissues
+736,Other acquired deformities of limbs
+959,"Injury, other and unspecified"
+274,Gout
+039,Actinomycotic infections
+193,Malignant neoplasm of thyroid gland
+226,Benign neoplasm of thyroid glands
+141,Malignant neoplasm of tongue
+310,Specific nonpsychotic mental disorders due to brain damage
+005,Other food poisoning (bacterial)
+300,"Anxiety, dissociative and somatoform disorders"
+848,Other and ill-defined sprains and strains
+361,Retinal detachments and defects
+718,Other derangement of joint
+344,Other paralytic syndromes
+266,Deficiency of B-complex components
+843,Sprains and strains of hip and thigh
+709,Other disorders of skin and subcutaneous tissue
+800,Fracture of vault of skull
+145,Malignant neoplasm of other and unspecified parts of mouth
+839,"Other, multiple, and ill-defined dislocations"
+207,Other specified leukemia
+637,Unspecified abortion
+847,Sprains and strains of other and unspecified parts of back
+627,Menopausal and postmenopausal disorders
+886,Traumatic amputation of other finger(s) (complete) (partial)
+745,Bulbus cordis anomalies and anomalies of cardiac septal closure
+883,Open wound of finger(s)
+163,Malignant neoplasm of pleura
+216,Benign neoplasm of skin
+354,Mononeuritis of upper limb and mononeuritis multiplex
+375,Disorders of lacrimal system
+148,Malignant neoplasm of hypopharynx
+795,"Other and nonspecific abnormal cytological, histological, immunological and DNA test findings"
+923,Contusion of upper limb
+957,Injury to other and unspecified nerves
+052,Chickenpox
+837,Dislocation of ankle
+704,Diseases of hair and hair follicles
+832,Dislocation of elbow
+V42,Organ or tissue replaced by transplant
+V65,Other persons seeking consultation
+E888,Other and unspecified fall
+E939,Psychotropic agents
+E937,Sedatives and hypnotics
+V17,Family history of certain chronic disabling diseases
+758,Chromosomal anomalies
+V61,Other family circumstances
+953,Injury to nerve roots and spinal plexus
+869,Internal injury to unspecified or ill-defined organs
+907,Late effects of injuries to the nervous system
+E829,Other road vehicle accidents
+E980,"Poisoning by solid or liquid substances, undetermined whether accidentally or purposely inflicted"
+364,Disorders of iris and ciliary body
+V22,Normal pregnancy
+930,Foreign body on external eye
+V01,Contact with or exposure to communicable diseases
+V06,Need for prophylactic vaccination and inoculation against combinations of diseases
+00?,
+912,
+574,Cholelithiasis
+456,Varicose veins of other sites
+845,Sprains and strains of ankle and foot
+784,Symptoms involving head and neck
+575,Other disorders of gallbladder
+715,Osteoarthrosis and allied disorders
+202,Other malignant neoplasms of lymphoid and histiocytic tissue
+577,Diseases of pancreas
+738,Other acquired deformity
+250.22,Diabetes with hyperosmolarity
+584,Acute renal failure
+466,Acute bronchitis and bronchiolitis
+590,Infections of kidney
+189,Malignant neoplasm of kidney and other and unspecified urinary organs
+434,Occlusion of cerebral arteries
+852,"Subarachnoid, subdural, and extradural hemorrhage, following injury"
+728,"Disorders of muscle, ligament, and fascia"
+156,Malignant neoplasm of gallbladder and extrahepatic bile ducts
+431,Intracerebral hemorrhage
+535,Gastritis and duodenitis
+303,Alcohol dependence syndrome
+200,Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue
+349,Other and unspecified disorders of the nervous system
+404,Hypertensive heart and chronic kidney disease
+516,Other alveolar and parietoalveolar pneumonopathy
+079,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site
+601,Inflammatory diseases of prostate
+443,Other peripheral vascular disease
+292,Drug-induced mental disorders
+311,"Depressive disorder, not elsewhere classified"
+436,"Acute, but ill-defined, cerebrovascular disease"
+632,Missed abortion
+658,Other problems associated with amniotic cavity and membranes
+429,Ill-defined descriptions and complications of heart disease
+203,Multiple myeloma and immunoproliferative neoplasms
+049,Other non-arthropod-borne viral diseases of central nervous system
+320,Bacterial meningitis
+294,Persistent mental disorders due to conditions classified elsewhere
+397,Diseases of other endocardial structures
+785,Symptoms involving cardiovascular system
+844,Sprains and strains of knee and leg
+647,"Infectious and parasitic conditions in the mother classifiable elsewhere, but complicating pregnancy, childbirth, or the puerperium"
+659,"Other indications for care or intervention related to labor and delivery, not elsewhere classified"
+861,Injury to heart and lung
+250.53,Diabetes with ophthalmic manifestations
+801,Fracture of base of skull
+617,Endometriosis
+242,Thyrotoxicosis with or without goiter
+396,Diseases of mitral and aortic valves
+430,Subarachnoid hemorrhage
+205,Myeloid leukemia
+172,Malignant melanoma of skin
+967,Poisoning by sedatives and hypnotics
+939,Foreign body in genitourinary tract
+935,"Foreign body in mouth, esophagus, and stomach"
+936,Foreign body in intestine and colon
+250.9,Diabetes with unspecified complication
+262,Other severe protein-calorie malnutrition
+334,Spinocerebellar disease
+526,Diseases of the jaws
+325,Phlebitis and thrombophlebitis of intracranial venous sinuses
+088,Other arthropod-borne diseases
+865,Injury to spleen
+816,Fracture of one or more phalanges of hand
+541,"Appendicitis, unqualified"
+753,Congenital anomalies of urinary system
+619,Fistula involving female genital tract
+382,Suppurative and unspecified otitis media
+893,Open wound of toe(s)
+115,Histoplasmosis
+890,Open wound of hip and thigh
+838,Dislocation of foot
+477,Allergic rhinitis
+027,Other zoonotic bacterial diseases
+921,Contusion of eye and adnexa
+377,Disorders of optic nerve and visual pathways
+602,Other disorders of prostate
+971,Poisoning by drugs primarily affecting the autonomic nervous system
+842,Sprains and strains of wrist and hand
+645,Late pregnancy
+698,Pruritus and related conditions
+299,Pervasive developmental disorders
+E909,Cataclysmic earth surface movements and eruptions
+058,Other human herpesvirus
+V12,Personal history of certain other diseases
+V23,Supervision of high-risk pregnancy
+E935,"Analgesics, antipyretics, and antirheumatics"
+484,Pneumonia in infectious diseases classified elsewhere
+V46,Other dependence on machines and devices
+701,Other hypertrophic and atrophic conditions of skin
+517,Lung involvement in conditions classified elsewhere
+E933,Primarily systemic agents
+046,Slow virus infections and prion diseases of central nervous system
+E887,"Fracture, cause unspecified"
+256,Ovarian dysfunction
+670,Major puerperal infection
+315,Specific delays in development
+E949,Other vaccines and biological substances
+E852,Accidental poisoning by other sedatives and hypnotics
+E876,Other and unspecified misadventures during medical care
+E815,Other motor vehicle traffic accident involving collision on the highway
+E865,Accidental poisoning from poisonous foodstuffs and poisonous plants
+564,"Functional digestive disorders, not elsewhere classified"
+556,Ulcerative colitis
+571,Chronic liver disease and cirrhosis
+789,Other symptoms involving abdomen and pelvis
+402,Hypertensive heart disease
+280,Iron deficiency anemias
+V57,Care involving use of rehabilitation procedures
+295,Schizophrenic disorders
+820,Fracture of neck of femur
+824,Fracture of ankle
+281,Other deficiency anemias
+557,Vascular insufficiency of intestine
+197,Secondary malignant neoplasm of respiratory and digestive systems
+510,Empyema
+578,Gastrointestinal hemorrhage
+250.41,Diabetes with renal manifestations
+553,Other hernia of abdominal cavity without mention of obstruction or gangrene
+250.13,Diabetes with ketoacidosis
+250.8,Diabetes with other specified manifestations
+250.42,Diabetes with renal manifestations
+996,Complications peculiar to certain specified procedures
+423,Other diseases of pericardium
+997,"Complications affecting specified body systems, not elsewhere classified"
+082,Tick-borne rickettsioses
+531,Gastric ulcer
+885,Traumatic amputation of thumb (complete) (partial)
+532,Duodenal ulcer
+958,Certain early complications of trauma
+250.93,Diabetes with unspecified complication
+962,Poisoning by hormones and synthetic substitutes
+507,Pneumonitis due to solids and liquids
+550,Inguinal hernia
+241,Nontoxic nodular goiter
+803,Other and unqualified skull fractures
+153,Malignant neoplasm of colon
+586,"Renal failure, unspecified"
+708,Urticaria
+214,Lipoma
+275,Disorders of mineral metabolism
+680,Carbuncle and furuncle
+250.31,Diabetes with other coma
+003,Other salmonella infections
+011,Pulmonary tuberculosis
+199,Malignant neoplasm without specification of site
+212,Benign neoplasm of respiratory and intrathoracic organs
+233,Carcinoma in situ of breast and genitourinary system
+924,Contusion of lower limb and of other and unspecified sites
+621,"Disorders of uterus, not elsewhere classified"
+201,Hodgkin's disease
+977,Poisoning by other and unspecified drugs and medicinal substances
+485,"Bronchopneumonia, organism unspecified"
+298,Other nonorganic psychoses
+987,"Toxic effect of other gases, fumes, or vapors"
+228,"Hemangioma and lymphangioma, any site"
+719,Other and unspecified disorders of joint
+853,Other and unspecified intracranial hemorrhage following injury
+934,"Foreign body in trachea, bronchus, and lung"
+594,Calculus of lower urinary tract
+490,"Bronchitis, not specified as acute or chronic"
+306,Physiological malfunction arising from mental factors
+171,Malignant neoplasm of connective and other soft tissue
+634,Spontaneous abortion
+323,"Encephalitis, myelitis, and encephalomyelitis"
+252,Disorders of parathyroid gland
+732,Osteochondropathies
+686,Other local infections of skin and subcutaneous tissue
+357,Inflammatory and toxic neuropathy
+685,Pilonidal cyst
+034,Streptococcal sore throat and scarlet fever
+179,"Malignant neoplasm of uterus, part unspecified"
+192,Malignant neoplasm of other and unspecified parts of nervous system
+814,Fracture of carpal bone(s)
+378,Strabismus and other disorders of binocular eye movements
+705,Disorders of sweat glands
+986,Toxic effect of carbon monoxide
+379,Other disorders of eye
+671,Venous complications in pregnancy and the puerperium
+725,Polymyalgia rheumatica
+470,Deviated nasal septum
+146,Malignant neoplasm of oropharynx
+691,Atopic dermatitis and related conditions
+250.51,Diabetes with ophthalmic manifestations
+448,Disease of capillaries
+147,Malignant neoplasm of nasopharynx
+880,Open wound of shoulder and upper arm
+131,Trichomoniasis
+347,Cataplexy and narcolepsy
+684,Impetigo
+314,Hyperkinetic syndrome of childhood
+240,Simple and unspecified goiter
+944,Burn of wrist(s) and hand(s)
+412,Old myocardial infarction
+097,Other and unspecified syphilis
+529,Diseases and other conditions of the tongue
+066,Other arthropod-borne viral diseases
+605,Redundant prepuce and phimosis
+542,Other appendicitis
+649,"Other conditions or status of the mother complicating pregnancy, childbirth, or the puerperium"
+975,Poisoning by agents primarily acting on the smooth and skeletal muscles and respiratory system
+V10,Personal history of malignant neoplasm
+E878,"Surgical operation and other surgical procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation"
+E870,"Accidental cut, puncture, perforation, or hemorrhage during medical care"
+E950,Suicide and self-inflicted poisoning by solid or liquid substances
+E849,PLACE OF OCCURENCE 
+E885,"Fall on same level from slipping, tripping, or stumbling"
+E890,Conflagration in private dwelling
+040,Other bacterial diseases
+E936,Anticonvulsants and anti-Parkinsonism drugs
+472,Chronic pharyngitis and nasopharyngitis
+E965,Assault by firearms and explosives
+137,Late effects of tuberculosis
+E905,Venomous animals and plants as the cause of poisoning and toxic reactions
+E918,Caught accidentally in or between objects
+V13,Personal history of other diseases
+E881,Fall on or from ladders or scaffolding
+E826,Pedal cycle accident
+140,Malignant neoplasm of lip
+E882,Fall from or out of building or other structure
+E861,"Accidental poisoning by cleansing and polishing agents, disinfectants, paints, and varnishes"
+697,Lichen
+956,Injury to peripheral nerve(s) of pelvic girdle and lower limb
+E922,Accident caused by firearm and air gun missile
+E987,"Falling from high place, undetermined whether accidentally or purposely inflicted"
+841,Sprains and strains of elbow and forearm
+913,
+914,
+250.83,Diabetes with other specified manifestations
+560,Intestinal obstruction without mention of hernia
+428,Heart failure
+332,Parkinson's disease
+438,Late effects of cerebrovascular disease
+441,Aortic aneurysm and dissection
+808,Fracture of pelvis
+787,Symptoms involving digestive system
+812,Fracture of humerus
+070,Viral hepatitis
+250.4,Diabetes with renal manifestations
+401,Essential hypertension
+711,Arthropathy associated with infections
+414,Other forms of chronic ischemic heart disease
+250.02,Diabetes mellitus without mention of complication
+157,Malignant neoplasm of pancreas
+250.33,Diabetes with other coma
+386,Vertiginous syndromes and other disorders of vestibular system
+250.01,Diabetes mellitus without mention of complication
+054,Herpes simplex
+285,Other and unspecified anemias
+415,Acute pulmonary heart disease
+447,Other disorders of arteries and arterioles
+078,Other diseases due to viruses and Chlamydiae
+681,Cellulitis and abscess of finger and toe
+204,Lymphoid leukemia
+694,Bullous dermatoses
+821,Fracture of other and unspecified parts of femur
+512,Pneumothorax
+284,Aplastic anemia and other bone marrow failure syndromes
+644,Early or threatened labor
+297,Delusional disorders
+251,Other disorders of pancreatic internal secretion
+304,Drug dependence
+840,Sprains and strains of shoulder and upper arm
+751,Other congenital anomalies of digestive system
+726,Peripheral enthesopathies and allied syndromes
+366,Cataract
+117,Other mycoses
+184,Malignant neoplasm of other and unspecified female genital organs
+710,Diffuse diseases of connective tissue
+250.5,Diabetes with ophthalmic manifestations
+746,Other congenital anomalies of heart
+V45,Other postprocedural states
+528,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue"
+759,Other and unspecified congenital anomalies
+370,Keratitis
+904,Injury to blood vessels of lower extremity and unspecified sites
+991,Effects of reduced temperature
+692,Contact dermatitis and other eczema
+964,Poisoning by agents primarily affecting blood constituents
+394,Diseases of mitral valve
+V67,Follow-up examination
+717,Internal derangement of knee
+990,"Effects of radiation, unspecified"
+827,"Other, multiple, and ill-defined fractures of lower limb"
+373,Inflammation of eyelids
+352,Disorders of other cranial nerves
+835,Dislocation of hip
+955,Injury to peripheral nerve(s) of shoulder girdle and upper limb
+318,Other specified mental retardation
+V63,Unavailability of other medical facilities for care
+057,Other viral exanthemata
+452,Portal vein thrombosis
+963,Poisoning by primarily systemic agents
+110,Dermatophytosis
+700,Corns and callosities
+273,Disorders of plasma protein metabolism
+974,"Poisoning by water, mineral, and uric acid metabolism drugs"
+114,Coccidioidomycosis
+583,"Nephritis and nephropathy, not specified as acute or chronic"
+391,Rheumatic fever with heart involvement
+V15,Other personal history presenting hazards to health
+258,Polyglandular dysfunction and related disorders
+E944,"Water, mineral, and uric acid metabolism drugs"
+317,Mild mental retardation
+343,Infantile cerebral palsy
+V18,Family history of certain other specific conditions
+E947,Other and unspecified drugs and medicinal substances
+E930,Antibiotics
+702,Other dermatoses
+259,Other endocrine disorders
+754,Certain congenital musculoskeletal deformities
+E854,Accidental poisoning by other psychotropic agents
+V85,BODY MASS INDEX 
+E816,"Motor vehicle traffic accident due to loss of control, without collision on the highway"
+750,Other congenital anomalies of upper alimentary tract
+302,Sexual and gender identity disorders
+V27,Outcome of delivery
+139,Late effects of other infectious and parasitic diseases
+E956,Suicide and self-inflicted injury by cutting and piercing instrument
+E943,Agents primarily affecting gastrointestinal system
+E855,Accidental poisoning by other drugs acting on central and autonomic nervous system
+597,"Urethritis, not sexually transmitted, and urethral syndrome"
+624,Noninflammatory disorders of vulva and perineum
+E825,Other motor vehicle nontraffic accident of other and unspecified nature
+916,
+198,Secondary malignant neoplasm of other specified sites
+250.03,Diabetes mellitus without mention of complication
+038,Septicemia
+562,Diverticula of intestine
+250.82,Diabetes with other specified manifestations
+162,"Malignant neoplasm of trachea, bronchus, and lung"
+491,Chronic bronchitis
+154,"Malignant neoplasm of rectum, rectosigmoid junction, and anus"
+440,Atherosclerosis
+008,Intestinal infections due to other organisms
+398,Other rheumatic heart disease
+730,"Osteomyelitis, periostitis, and other infections involving bone"
+250.7,Diabetes with peripheral circulatory disorders
+191,Malignant neoplasm of brain
+282,Hereditary hemolytic anemias
+618,Genital prolapse
+737,Curvature of spine
+572,Liver abscess and sequelae of chronic liver disease
+492,Emphysema
+596,Other disorders of bladder
+340,Multiple sclerosis
+211,Benign neoplasm of other parts of digestive system
+661,Abnormality of forces of labor
+823,Fracture of tibia and fibula
+579,Intestinal malabsorption
+380,Disorders of external ear
+591,Hydronephrosis
+805,Fracture of vertebral column without mention of spinal cord injury
+727,"Other disorders of synovium, tendon, and bursa"
+437,Other and ill-defined cerebrovascular disease
+495,Extrinsic allergic alveolitis
+053,Herpes zoster
+287,Purpura and other hemorrhagic conditions
+783,"Symptoms concerning nutrition, metabolism, and development"
+250.2,Diabetes with hyperosmolarity
+283,Acquired hemolytic anemias
+972,Poisoning by agents primarily affecting the cardiovascular system
+966,Poisoning by anticonvulsants and anti-Parkinsonism drugs
+608,Other disorders of male genital organs
+714,Rheumatoid arthritis and other inflammatory polyarthropathies
+250.23,Diabetes with hyperosmolarity
+508,Respiratory conditions due to other and unspecified external agents
+451,Phlebitis and thrombophlebitis
+395,Diseases of aortic valve
+425,Cardiomyopathy
+527,Diseases of the salivary glands
+250.92,Diabetes with unspecified complication
+623,Noninflammatory disorders of vagina
+322,Meningitis of unspecified cause
+237,Neoplasm of uncertain behavior of endocrine glands and nervous system
+336,Other diseases of spinal cord
+513,Abscess of lung and mediastinum
+506,Respiratory conditions due to chemical fumes and vapors
+V66,Convalescence and palliative care
+385,Other disorders of middle ear and mastoid
+463,Acute tonsillitis
+983,"Toxic effect of corrosive aromatics, acids, and caustic alkalis"
+791,Nonspecific findings on examination of urine
+660,Obstructed labor
+365,Glaucoma
+094,Neurosyphilis
+170,Malignant neoplasm of bone and articular cartilage
+454,Varicose veins of lower extremities
+229,Benign neoplasm of other and unspecified sites
+693,Dermatitis due to substances taken internally
+035,Erysipelas
+389,Hearing loss
+V60,"Housing, household, and economic circumstances"
+703,Diseases of nail
+173,Other malignant neoplasm of skin
+250.52,Diabetes with ophthalmic manifestations
+866,Injury to kidney
+928,Crushing injury of lower limb
+906,Late effects of injuries to skin and subcutaneous tissues
+674,"Other and unspecified complications of the puerperium, not elsewhere classified"
+867,Injury to pelvic organs
+834,Dislocation of finger
+653,Disproportion
+735,Acquired deformities of toe
+V43,Organ or tissue replaced by other means
+471,Nasal polyps
+862,Injury to other and unspecified intrathoracic organs
+817,Multiple fractures of hand bones
+084,Malaria
+338,PAIN 
+543,Other diseases of appendix
+615,"Inflammatory diseases of uterus, except cervix"
+500,Coal workers' pneumoconiosis
+875,Open wound of chest (wall)
+023,Brucellosis
+010,Primary tuberculous infection
+E812,Other motor vehicle traffic accident involving collision with motor vehicle
+E932,Hormones and synthetic substitutes
+V72,Special investigations and examinations
+E879,"Other procedures, without mention of misadventure at the time of procedure, as the cause of abnormal reaction of patient, or of later complication"
+E931,Other anti-infectives
+E858,Accidental poisoning by other drugs
+V62,Other psychosocial circumstances
+E900,Excessive heat
+E813,Motor vehicle traffic accident involving collision with other vehicle
+E868,Accidental poisoning by other utility gas and other carbon monoxide
+E938,Other central nervous system depressants and anesthetics
+099,Other venereal diseases
+E906,Other injury caused by animals
+E853,Accidental poisoning by tranquilizers
+123,Other cestode infection
+927,Crushing injury of upper limb
+313,Disturbance of emotions specific to childhood and adolescence
+122,Echinococcosis
+E920,Accidents caused by cutting and piercing instruments or objects
+951,Injury to other cranial nerve(s)
+744,"Congenital anomalies of ear, face, and neck"
+017,Tuberculosis of other organs
+132,Pediculosis and phthirus infestation
+E901,Excessive cold
+E955,"Suicide and self-inflicted injury by firearms, air guns and explosives"
+182,Malignant neoplasm of body of uterus
+733,Other disorders of bone and cartilage
+569,Other disorders of intestine
+780,General symptoms
+250.11,Diabetes with ketoacidosis
+998,"Other complications of procedures, NEC"
+707,Chronic ulcer of skin
+411,Other acute and subacute forms of ischemic heart disease
+276,"Disorders of fluid, electrolyte, and acid-base balance"
+225,Benign neoplasm of brain and other parts of nervous system
+482,Other bacterial pneumonia
+432,Other and unspecified intracranial hemorrhage
+291,Alcohol-induced mental disorders
+250.12,Diabetes with ketoacidosis
+346,Migraine
+250,Diabetes mellitus
+782,Symptoms involving skin and other integumentary tissue
+969,Poisoning by psychotropic agents
+573,Other disorders of liver
+922,Contusion of trunk
+656,Other known or suspected fetal and placental problems affecting management of mother
+250.81,Diabetes with other specified manifestations
+892,Open wound of foot except toe(s) alone
+351,Facial nerve disorders
+654,Abnormality of organs and soft tissues of pelvis
+309,Adjustment reaction
+458,Hypotension
+278,"Overweight, obesity and other hyperalimentation"
+552,"Other hernia of abdominal cavity, with obstruction, but without mention of gangrene"
+669,"Other complications of labor and delivery, not elsewhere classified"
+537,Other disorders of stomach and duodenum
+350,Trigeminal nerve disorders
+620,"Noninflammatory disorders of ovary, fallopian tube, and broad ligament"
+716,Other and unspecified arthropathies
+965,"Poisoning by analgesics, antipyretics, and antirheumatics"
+480,Viral pneumonia
+788,Symptoms involving urinary system
+312,"Disturbance of conduct, not elsewhere classified"
+652,Malposition and malpresentation of fetus
+421,Acute and subacute endocarditis
+581,Nephrotic syndrome
+970,Poisoning by central nervous system stimulants
+475,Peritonsillar abscess
+442,Other aneurysm
+568,Other disorders of peritoneum
+150,Malignant neoplasm of esophagus
+376,Disorders of the orbit
+641,"Antepartum hemorrhage, abruptio placentae, and placenta previa"
+790,Nonspecific findings on examination of blood
+860,Traumatic pneumothorax and hemothorax
+802,Fracture of face bones
+534,Gastrojejunal ulcer
+533,"Peptic ulcer, site unspecified"
+519,Other diseases of respiratory system
+301,Personality disorders
+239,NEOPLASMS OF UNSPECIFIED NATURE 
+871,Open wound of eyeball
+236,Neoplasm of uncertain behavior of genitourinary organs
+250.21,Diabetes with hyperosmolarity
+643,Excessive vomiting in pregnancy
+501,Asbestosis
+622,Noninflammatory disorders of cervix
+864,Injury to liver
+356,Hereditary and idiopathic peripheral neuropathy
+474,Chronic disease of tonsils and adenoids
+308,Acute reaction to stress
+720,Ankylosing spondylitis and other inflammatory spondylopathies
+483,Pneumonia due to other specified organism
+920,"Contusion of face, scalp, and neck except eye(s)"
+V26,Procreative management
+831,Dislocation of shoulder
+307,"Special symptoms or syndromes, not elsewhere classified"
+815,Fracture of metacarpal bone(s)
+588,Disorders resulting from impaired renal function
+219,Other benign neoplasm of uterus
+994,Effects of other external causes
+031,Diseases due to other mycobacteria
+891,"Open wound of knee, leg [except thigh], and ankle"
+369,Blindness and low vision
+342,Hemiplegia and hemiparesis
+881,"Open wound of elbow, forearm, and wrist"
+897,Traumatic amputation of leg(s) (complete) (partial)
+524,"Dentofacial anomalies, including malocclusion"
+879,"Open wound of other and unspecified sites, except limbs"
+194,Malignant neoplasm of other endocrine glands and related structures
+250.91,Diabetes with unspecified complication
+982,Toxic effect of solvents other than petroleum based
+417,Other diseases of pulmonary circulation
+870,Open wound of ocular adnexa
+061,Dengue
+327,ORGANIC SLEEP DISORDERS 
+665,Other obstetrical trauma
+603,Hydrocele
+806,Fracture of vertebral column with spinal cord injury
+523,Gingival and periodontal diseases
+372,Disorders of conjunctiva
+V07,Need for isolation and other prophylactic measures
+133,Acariasis
+E915,Foreign body accidentally entering other orifice
+E880,Fall on or from stairs or steps
+V49,Other conditions influencing health status
+V14,Personal history of allergy to medicinal agents
+872,Open wound of ear
+905,Late effects of musculoskeletal and connective tissue injuries
+V09,Infection with drug-resistant microorganisms
+E928,Other and unspecified environmental and accidental causes
+V11,Personal history of mental disorder
+E927,Overexertion and strenuous and repetitive movements or loads
+E917,Striking against or struck accidentally by objects or persons
+V16,Family history of malignant neoplasm
+E850,"Accidental poisoning by analgesics, antipyretics, and antirheumatics"
+E822,Other motor vehicle nontraffic accident involving collision with moving object
+E894,Ignition of highly inflammable material
+E946,"Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological, and dental drugs"
+E966,Assault by cutting and piercing instrument
+235,
+911,
+915,
+752,
+433,Occlusion and stenosis of precerebral arteries
+185,Malignant neoplasm of prostate
+277,Other and unspecified disorders of metabolism
+462,Acute pharyngitis
+625,Pain and other symptoms associated with female genital organs
+558,Other and unspecified noninfectious gastroenteritis and colitis
+722,Intervertebral disc disorders
+724,Other and unspecified disorders of back
+999,"Complications of medical care, not elsewhere classified"
+593,Other disorders of kidney and ureter
+807,"Fracture of rib(s), sternum, larynx, and trachea"
+244,Acquired hypothyroidism
+648,"Other current conditions in the mother classifiable elsewhere, but complicating pregnancy, childbirth, or the puerperium"
+435,Transient cerebral ischemia
+250.6,Diabetes with neurological manifestations
+493,Asthma
+599,Other disorders of urethra and urinary tract
+995,Certain adverse effects not elsewhere classified
+457,Noninfectious disorders of lymphatic channels
+220,Benign neoplasm of ovary
+227,Benign neoplasm of other endocrine glands and related structures
+218,Uterine leiomyoma
+426,Conduction disorders
+337,Disorders of the autonomic nervous system
+286,Coagulation defects
+183,Malignant neoplasm of ovary and other uterine adnexa
+424,Other diseases of endocardium
+358,Myoneural disorders
+345,Epilepsy and recurrent seizures
+799,Other ill-defined and unknown causes of morbidity and mortality
+158,Malignant neoplasm of retroperitoneum and peritoneum
+413,Angina pectoris
+359,Muscular dystrophies and other myopathies
+968,Poisoning by other central nervous system depressants and anesthetics
+868,Injury to other intra-abdominal organs
+368,Visual disturbances
+355,Mononeuritis of lower limb
+250.3,Diabetes with other coma
+580,Acute glomerulonephritis
+664,Trauma to perineum and vulva during delivery
+942,Burn of trunk
+007,Other protozoal intestinal diseases
+600,Hyperplasia of prostate
+494,Bronchiectasis
+646,"Other complications of pregnancy, not elsewhere classified"
+374,Other disorders of eyelids
+465,Acute upper respiratory infections of multiple or unspecified sites
+461,Acute sinusitis
+362,Other retinal disorders
+353,Nerve root and plexus disorders
+155,Malignant neoplasm of liver and intrahepatic bile ducts
+616,"Inflammatory disease of cervix, vagina, and vulva"
+989,"Toxic effect of other substances, chiefly nonmedicinal as to source"
+695,Erythematous conditions
+187,Malignant neoplasm of penis and other male genital organs
+846,Sprains and strains of sacroiliac region
+747,Other congenital anomalies of circulatory system
+164,"Malignant neoplasm of thymus, heart, and mediastinum"
+V71,Observation and evaluation for suspected conditions not found
+136,Other and unspecified infectious and parasitic diseases
+793,Nonspecific abnormal findings on radiological and other examination of body structure
+195,Malignant neoplasm of other and ill-defined sites
+945,Burn of lower limb(s)
+215,Other benign neoplasm of connective and other soft tissue
+384,Other disorders of tympanic membrane
+142,Malignant neoplasm of major salivary glands
+246,Other disorders of thyroid
+036,Meningococcal infection
+941,"Burn of face, head, and neck"
+657,Polyhydramnios
+279,Disorders involving the immune mechanism
+381,Nonsuppurative otitis media and Eustachian tube disorders
+E924,"Accident caused by hot substance or object, caustic or corrosive material, and steam"
+E942,Agents primarily affecting the cardiovascular system
+947,Burn of internal organs
+111,"Dermatomycosis, other and unspecified"
+E941,Drugs primarily affecting the autonomic nervous system
+712,Crystal arthropathies
+741,Spina bifida
+755,Other congenital anomalies of limbs
+908,Late effects of other and unspecified injuries
+811,Fracture of scapula
+269,Other nutritional deficiencies
+232,Carcinoma in situ of skin
+948,Burns classified according to extent of body surface involved
+E818,Other noncollision motor vehicle traffic accident
+V03,Need for prophylactic vaccination and inoculation against bacterial diseases
+E821,Nontraffic accident involving other off-road motor vehicle
+268,Vitamin D deficiency
+260,Kwashiorkor
+894,Multiple and unspecified open wound of lower limb
+525,Other diseases and conditions of the teeth and supporting structures
+387,Otosclerosis
+E904,"Hunger, thirst, exposure, and neglect"
+243,Congenital hypothyroidism
+E892,Conflagration not in building or structure
+877,Open wound of buttock
+876,Open wound of back
+918,
