@@ -8,4 +8,3 @@ variable.tf
 /backend/data/icd9_codes/
 .terraform/
 terraform.tfstate
-
