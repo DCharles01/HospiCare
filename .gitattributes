@@ -1,1 +1,4 @@
 backend/terraform/aws/.terraform/* filter=lfs diff=lfs merge=lfs -text
+*.py linguist-language=Python
+*.sql linguist-language=SQL
+*.sh linguist-language=Bash
