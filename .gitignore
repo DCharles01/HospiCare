@@ -5,3 +5,7 @@ main.tf
 output.tf
 variable.tf
 .terraform.lock.hcl
+/backend/data/icd9_codes/
+.terraform/
+terraform.tfstate
+
